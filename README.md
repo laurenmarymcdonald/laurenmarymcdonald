@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Lauren 👋
+CS student at Cornell University (Class of 2030). I'm interested in AI safety, mobile apps, and teaching people to code.
 
-<!--
-**laurenmarymcdonald/laurenmarymcdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📄 Co-author, "Large language models provide unsafe answers to patient-posed medical questions", npj Digital Medicine (2026)
+📱 Built and shipped Digital Dresser, an iOS wardrobe app, on the App Store
+🌍 Founder of KidsWhoLike2Code, which has taught Python to 100+ students in Nigeria and Zimbabwe
+Featured projects
+Project
+What it is
+Stack
+Digital Dresser
+iOS app for cataloging clothes and building outfits
+Swift, SwiftUI
+Search & Sort Visualizer
+Animates selection sort and binary search on a dataset
+Java, Processing
+Connections
+Playable clone of the NYT Connections word game
+Java, Processing
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python · Java · Swift · JavaScript · C++
+
+📫 LinkedIn
